@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter</string>
+
+    <plurals name="quantity_items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="times_items">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+</resources>
